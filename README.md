@@ -23,6 +23,9 @@
 
 ![](https://komarev.com/ghpvc/?username=thuydao)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<p align="center"> 
+  <img alt="Top Langs" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuydao&theme=nord" />
+  <img alt="Github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=thuydao&theme=nord" />
+<p align="center">
+  <img alt="Trophy" height="113px" src="https://github-profile-trophy.vercel.app/?username=thuydao&theme=nord&column=7" />
+</p>
